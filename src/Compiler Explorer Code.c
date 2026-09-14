@@ -14,5 +14,4 @@ if (belt >= totalPackageWeight) {
     printf("No. The conveyor belt cannot carry the packages.");
 
 }
-   
 }
